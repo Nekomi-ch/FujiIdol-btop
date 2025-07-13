@@ -42,8 +42,8 @@ theme[proc_misc]="#a48ef1"
 #NekomiMagenta
 
 # Cpu box outline color
-theme[cpu_box]="#f6b3bf"
-# NekomiPink
+theme[cpu_box]="#2c942a"
+# NekomiGreen
 
 # Memory/disks box outline color
 theme[mem_box]="#5a85fe"
@@ -54,8 +54,8 @@ theme[net_box]="#a48ef1"
 #NekomiMagenta
 
 # Processes box outline color
-theme[proc_box]="#f66355"
-#NekomiRed
+theme[proc_box]="#29bcad"
+#NekomiCyan
 
 # Box divider line and small boxes line color
 theme[div_line]="#928d98"
@@ -93,10 +93,10 @@ theme[available_end]="#55e354"
 #light green
 
 # Mem/Disk used meter
-theme[used_start]="#ffe19d"
-theme[used_mid]="#ffe19d"
-theme[used_end]="#ffe19d"
-#light yellow
+theme[used_start]="#f66355"
+theme[used_mid]="#f66355"
+theme[used_end]="#f66355"
+#light red
 
 # Download graph colors
 theme[download_start]="#5a85fe"
