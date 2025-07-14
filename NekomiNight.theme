@@ -18,7 +18,7 @@ theme[hi_fg]="#f6f0ff"
 # Nekomi7
 
 # Background color of selected item in processes box
-theme[selected_bg]="#698cf3"
+theme[selected_bg]="#acc5ff"
 # NekomiLightBlue
 
 # Foreground color of selected item in processes box
